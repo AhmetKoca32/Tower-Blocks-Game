@@ -28,7 +28,7 @@ An interactive game that uses WebGL to arrange and visualize blocks in a dynamic
 3. Open the `index.html` file in your browser to start playing the game.
 
 ## Live Demo 🌍
-Play the game live here: [Tower Block Game Demo](https://your-vercel-domain.vercel.app)
+Play the game live here: [Tower Block Game Demo](https://tower-blocks-game.vercel.app)
 
 ## Usage 🖱️
 - **Start the Game**: Click the "Start" button to begin playing.
@@ -91,7 +91,7 @@ WebGL kullanarak blokları dinamik bir ortamda düzenleyen ve görselleştiren e
 3. `index.html` dosyasını tarayıcınızda açarak oyuna başlayın.
 
 ## Canlı Demo 🌍
-Oyunu canlı olarak buradan oynayın: [Tower Block Game Demo](https://your-vercel-domain.vercel.app)
+Oyunu canlı olarak buradan oynayın: [Tower Block Game Demo](https://tower-blocks-game.vercel.app)
 
 ## Kullanım 🖱️
 - **Oyuna Başla**: "Başla" butonuna tıklayarak oyunu başlatın.
